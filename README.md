@@ -22,6 +22,6 @@ I would love to connect to you better here and through other social media! Feel 
  ***
 <div>
 <a href="https://github.com/malinasz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malinasz&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?hide=contribs&username=malinasz&show_icons=true&theme=swift&include_all_commits=true&count_private=true&"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinasz&layout=compact7&theme=swift"/>
 </div>
