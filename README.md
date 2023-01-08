@@ -20,7 +20,7 @@ Have a sit while I take the cookies out of the oven! :cookie:
 <div style="margin: 0 auto;">
 <a href="https://www.linkedin.com/in/malinafranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:malinafrancab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[mailto:malinafrancab@gmail.com](https://www.goodreads.com/conjectrix)" target="_blank"><img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" target="_blank"></a>
+<a href="https://www.goodreads.com/conjectrix" target="_blank"><img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" target="_blank"></a>
 </div>
  
 ## Github Status
