@@ -1,6 +1,6 @@
 # Hi! There you are. Come on, the coffee is still warm. ![ezgif-5-bd9f4c738e](https://user-images.githubusercontent.com/104470227/211219475-0f30bb6b-9d29-4300-a43d-a4bdb55177dc.gif)
 
-## About Me
+## About Me.
 ***
 My name is Malina França, and I'm a trans woman developer from Rio de Janeiro, Brazil. 
 
@@ -8,15 +8,10 @@ Internet has been a passion for me since I was thirteen, and now I'm twenty. Sin
 
 Have a sit while I take the cookies out of the oven! :cookie:
 
- 1. Currently studying **Javascript**, mostly focused in **ReactJS** and **NodeJS**. :woman_technologist: 
- 2. Besides programming, literature is one of my biggest loves. I even was enrolled in the Language course over two years at Federal Rural University of Rio de Janeiro! Turned out I loved more writing codes than reading books. :smile: 
- 3. Lastly, I would love to connect to you better here and through other social media! Feel free to send me any questions and contribute to any publication! :ok_hand:
-
-
-
- 
 ## Socials 
 ***
+I would love to connect to you better here and through other social media! Feel free to send me any questions and contribute to any publication! :ok_hand:
+
 <div style="margin: 0 auto;">
 <a href="https://www.linkedin.com/in/malinafranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:malinafrancab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
